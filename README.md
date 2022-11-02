@@ -1,5 +1,6 @@
 # Shamir-Secret-Sharing-String
 Shamir's Secret Sharing Algorithm
+Written on Node.js
 
 function create(message, K, N)
 - This function creates N passwords.
